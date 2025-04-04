@@ -15,7 +15,7 @@ This is a beginner-level chatbot project developed as part of an internship task
 
 ### Tools and Platform Used:
 - *Platform*: Windows (Command Line Interface)
-- *Language*: Python 3.7
+- *Language*: Python
 - *Editor*: Visual Studio Code / Notepad++ (or any preferred Python editor)
 
 ### Libraries Used:
@@ -32,3 +32,4 @@ It also handles unrecognized inputs by giving fallback replies, encouraging the 
 The chatbot uses a simple rule-based system and maintains the context of the last topic discussed to allow follow-up questions.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/ff35a3ab-1a95-488a-9be0-b27a9bfa4e37)
